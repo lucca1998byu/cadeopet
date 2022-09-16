@@ -72,3 +72,5 @@ group :test do
 end
 
 gem 'devise'
+gem 'simple_form', github: 'heartcombo/simple_form'
+gem 'bootstrap', '~> 5.2.0'
